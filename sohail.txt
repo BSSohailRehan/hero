@@ -1,1 +1,8 @@
 hello
+from the stack memory 
+note: after using git stash apply still the memory contains the orginal value as it is to clear the memory we have to use the following command that is 
+git stsh draw this is used to remove one line of contain of the memory which was saved at last.
+git stash memory this clear the complete memorygit stash pop this is used alternative to git stash apply to git stash drop this means that git stash pop command not only retrial the conatin but also remove the conatin of back memory
+note:ther are thee ways of saving the contain of the stash memory it saves the conatint and memory with push -m message this command
+save the program in the stash memory with the specific message
+git stash save
